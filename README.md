@@ -1,5 +1,5 @@
-## Hello from git
+# Hello from git
 
-It's first message from me
+## It's first message from me
 
-And it's some message from friend
+## And it's some message from friend
